@@ -101,8 +101,8 @@ void loop() {
   if (debug) Serial.print(leftLDR);
   if (debug) Serial.print(" Right: ");
   if (debug) Serial.print(rightLDR);
-  if (debug) Serial.print(" Asmith");
-  if (debug) Serial.print(azmith);
+
+
  
   if (debug) Serial.println();
   
